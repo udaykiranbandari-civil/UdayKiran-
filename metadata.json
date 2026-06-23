@@ -1,0 +1,6 @@
+{
+  "name": "Udays Weg",
+  "description": "My Journey from Beginner German to B2 and Beyond - Personal German Learning Coach",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
